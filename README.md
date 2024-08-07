@@ -1,1 +1,6 @@
 # CODSOFT
+# web development:
+This project showcases a multi-functional web development task featuring a landing page, a portfolio section, and a calculator. The landing page is designed with modern HTML and CSS techniques to provide a clean and engaging user experience, introducing visitors to the content of the site. The portfolio section highlights various projects with a responsive layout, ensuring optimal viewing across different devices. Additionally, the calculator is implemented using JavaScript, offering basic arithmetic functionalities with an intuitive and user-friendly interface. This project demonstrates a blend of essential web development skills, including layout design, responsive styling, and interactive functionality, making it a comprehensive example of front-end development.
+
+# python:
+project is designed to demonstrate basic Python programming skills and provide practical, useful tools. The To-Do List application allows users to add, view, and delete tasks, helping manage daily activities. The Calculator performs basic arithmetic operations, offering a straightforward interface for quick calculations. The Password Generator creates strong, random passwords to enhance online security. These projects are ideal for beginners looking to practice Python programming and for anyone in need of simple, functional tools.
